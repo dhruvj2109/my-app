@@ -1,0 +1,203 @@
+.header {
+
+}
+
+.navigation-bar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 200px;
+    /* border: 2px solid green; */
+}
+
+.navigation-bar p {
+margin-top: 74px;
+font-family: 'Nunito';
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+text-transform: uppercase;
+color: #6074CF;
+margin-bottom: 0;
+}
+
+.navigation-bar button {
+margin-top: 50px;
+background: #C33990;
+border: 1px solid #FFFFFF;
+border-radius: 10px;
+width: 160px;
+text-align: center;
+color: #FFFFFF;
+font-weight: 700;
+font-size: 18px;
+margin-bottom: 10px;
+}
+
+.subscription-div {
+    font-family: 'Nunito';
+font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+color: #6074CF;
+padding: 0 200px 0 200px;
+margin-top: 80px;
+margin-bottom: 80px;
+
+}
+
+.investing-benefits {
+    align-items: center;
+    text-align: center;
+        padding: 0 350px 0 350px;
+        margin-bottom: 103px;
+}
+
+.investing-benefits p {
+
+margin-top: 0;
+font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+align-items: center;
+text-align: center;
+color: #333333;
+margin-bottom: 40px;
+}
+
+.winners-para {
+    font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+text-align: center;
+color: #333333;
+margin-bottom: 147px;
+}
+
+.winners-chart {
+    margin: 0 300px;
+   
+}
+
+.winners-chart__combo {
+
+}
+
+.winners-chart__combo p {
+    font-family: 'Nunito';
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+/* text-align: center; */
+color: #387ED1;
+margin-bottom: 0;
+margin-top: 0;
+/* border: 2px solid yellow; */
+margin-top: 50px;
+
+}
+
+.winners-chart__combo img {
+    width: 100%;
+    height: 303px;
+    background: #FFFFFF;
+box-shadow: 10px 5px 15px rgba(56, 126, 209, 0.2);
+border-radius: 10px;
+}
+
+.gulshan-div {
+margin: 0 300px;
+height: 225px;
+background: #FFFFFF;
+box-shadow: 10px 5px 15px rgba(56, 126, 209, 0.2);
+border-radius: 10px;
+margin-top: 50px;
+/* margin-bottom: 167px; */
+}
+
+.gulshan-div p {
+    text-align: center;
+    margin: auto;
+    vertical-align: middle;
+    line-height: 220px;
+}
+
+.max-venture-cont {
+    margin-top: 167px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.max-venture-cont__heading {
+    
+}
+
+.max-venture-cont__heading p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #387ED1;
+    mix-blend-mode: normal;
+    padding-left: 130px;
+    padding-right: 400px;
+    margin: 0;
+}
+
+.max-venture__combo {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 130px;
+    padding-right: 160px;
+    margin-top: 39px;
+/* border: 2px solid yellow; */
+}
+
+.max-venture__combo-desc {
+    width: 40%;
+
+}
+.max-venture__combo-desc p {
+    font-family: 'Nunito Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 28px;
+color: #333333;
+}
+.max-venture__combo-desc__first-para {
+    margin-bottom: 26px;
+
+}
+
+.max-venture__combo-desc__second-para {
+    padding-right:90px;
+    /* border: 2px solid green; */
+
+}
+
+
+.max-venture__combo-image {
+    flex: 1;
+        filter: drop-shadow(10px 5px 15px rgba(56, 126, 209, 0.2));
+border-radius: 10px;
+    
+}
+
+.max-venture__combo-image {
+    height: 322px;
+    box-shadow: 10px 15px 15px rgba(56, 126, 209, 0.2);
+    margin-bottom: 140px;
+
+    
+}
